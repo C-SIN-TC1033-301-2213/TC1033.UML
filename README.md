@@ -1,4 +1,4 @@
-# TC1033.UML.s2au3
+# TC1033.UML
 ## UML - Diagrama de clases
 
-Clase Auto
+Espacio para guardar diagramas de clases UML realizados con herramienta.
